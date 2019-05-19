@@ -1,4 +1,4 @@
-# darkhalosims
+# ASPP for darkhalosims
  Automatic Simulation Processing Program for Dark Matter Halos in N-body Simulations
 
 This program was created by Rishita Gudapati for the F18/W19 offering of PHYS 437 by the University of Waterloo under the supervision of Dr James Taylor  
