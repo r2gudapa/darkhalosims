@@ -10,4 +10,4 @@ This program may produce errors in the automatic fit of halos to NFW profiles - 
 The halo location and automatic snapshot processing features work well.  
   
 
-For support, email Rishita @ rishitagudapati@gmail.com
+For support, email Rishita at rishitagudapati@gmail.com
